@@ -1,6 +1,6 @@
 ## Person Class Assignment
 
-####### Week 04 - OOP
+###### Week 04 - OOP
 
 This repository contains a Python class named `Person` that represents a person with attributes such as name, age, and gender. It also includes a method to introduce the person.
 
